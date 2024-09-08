@@ -1,3 +1,4 @@
+![Banner](https://github.com/user-attachments/assets/4f4b4046-d4b7-4bf1-a5e4-39b536b7c117)
 ## C0LEsGaMinG Games
 
 Welcome to the official C0LEsGaMinG Github Page.
