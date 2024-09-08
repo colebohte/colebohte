@@ -1,7 +1,7 @@
-## Hi there 👋
+## C0LEsGaMinG Games
 
-<!--
-**C0LEsGaMinGDEV/C0LEsGaMinGDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official C0LEsGaMinG Github Page.
+Have a look around at all the projects!
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
