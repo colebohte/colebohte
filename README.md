@@ -3,6 +3,8 @@
 Welcome to the official C0LEsGaMinG Github Page.
 Have a look around at all the projects!
 
+![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
