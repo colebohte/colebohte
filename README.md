@@ -1,8 +1,6 @@
 ![Github](https://github.com/user-attachments/assets/df08596e-0b11-4147-bc15-96298eafe3b9)
 
-# C0LEsGaMinG Games
-
-Welcome to the official C0LEsGaMinG Github Page.<br>
+Welcome to the official colebohte Github Page.<br>
 
 ### Projects:<br>
 [My Website](https://c0lesgamingdev.github.io/ "The C0LEsGaMinG Website")
