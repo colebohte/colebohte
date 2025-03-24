@@ -9,7 +9,7 @@ Welcome to the official colebohte Github Page.<br>
 
 ### Socials:<br>
 [![Subscribe](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/youtube-icon.svg)](https://www.youtube.com/@colesgaminggames/)
-[![Follow on Twitter](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/twitter_legacy-icon.svg)](https://www.x.com/RealC0LEsGaMinG/)
+[![Follow on Twitter](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/twitter_legacy-icon.svg)](https://www.x.com/colebohte/)
 [![Join The Roblox Group](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/roblox_dev-icon.svg)](https://www.roblox.com/groups/16673824/)
 [![Follow on TikTok](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/tiktok-icon.svg)](https://www.tiktok.com/@c0lesgaminggames/)<br>
 [![Download the Games on Itch.io](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/itch-icon.svg)](https://river-games.itch.io/)
