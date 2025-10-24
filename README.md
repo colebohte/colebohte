@@ -3,15 +3,16 @@
 Welcome to the official colebohte Github Page.<br>
 
 ### Projects:<br>
-[My Website](https://c0lesgamingdev.github.io/ "The C0LEsGaMinG Website")
-[River HUB](https://c0lesgamingdev.github.io/river-HUB "River HUB")<br>
-[c0lesgamingOS](https://c0lesgamingdev.github.io/c0lesgamingOS "c0lesgamingOS")
+[My Website](https://colebohte.github.io/ "The C0LEsGaMinG Website")
+[River HUB](https://colebohte.github.io/river-HUB "River HUB")<br>
+[c0lesgamingOS](https://colebohte.github.io/c0lesgamingOS "c0lesgamingOS")
+[LibreStudy](https://github.com/colebohte/librestudy "LibreStudy")
 
 ### Socials:<br>
 [![Subscribe](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/youtube-icon.svg)](https://www.youtube.com/@colesgaminggames/)
 [![Follow on Twitter](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/twitter_legacy-icon.svg)](https://www.x.com/colebohte/)
 [![Join The Roblox Group](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/roblox_dev-icon.svg)](https://www.roblox.com/groups/16673824/)
-[![Follow on TikTok](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/tiktok-icon.svg)](https://www.tiktok.com/@c0lesgaminggames/)<br>
+[![Follow on TikTok](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/tiktok-icon.svg)](https://www.tiktok.com/@colebohte/)<br>
 [![Download the Games on Itch.io](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/itch-icon.svg)](https://river-games.itch.io/)
 [![Follow on Github](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github-icon.svg)](https://github.com/colebohte/)
 [![Figma](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/figma_blue-icon.svg)](#Figma)
