@@ -17,6 +17,14 @@ Welcome to the official colebohte Github Page.<br>
 [![Follow on Github](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github-icon.svg)](https://github.com/colebohte/)
 [![Figma](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/figma_blue-icon.svg)](#Figma)
 [![Join the Discord](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord-icon.svg)](https://discord.gg/8KBD6xXnzE)
+
+
+### Skills:<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,electron,figma,vscode,visualstudio,robloxstudio,godot,git,github,windows,powershell,linux,debian,bash,lua,python&perline=9)](https://skillicons.dev)
+
+### Activity:<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/816286715459010564)](https://discord.com/users/816286715459010564)
+
 <br><br><br>
 ![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
 ![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
@@ -28,6 +36,3 @@ Welcome to the official colebohte Github Page.<br>
 ![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
 ![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
 ![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
-
-### Skills:<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,electron,figma,vscode,visualstudio,robloxstudio,godot,git,github,windows,powershell,linux,debian,bash,lua,python&perline=9)](https://skillicons.dev)
