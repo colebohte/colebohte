@@ -28,3 +28,6 @@ Welcome to the official colebohte Github Page.<br>
 ![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
 ![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
 ![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
+
+### Skills:<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,electron,figma,vscode,visualstudio,robloxstudio,godot,git,github,windows,powershell,linux,debian,bash,lua,python&perline=9)](https://skillicons.dev)
