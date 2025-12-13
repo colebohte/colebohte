@@ -3,9 +3,9 @@
 Welcome to the official colebohte Github Page.<br>
 
 ### Projects:<br>
-[My Website](https://colebohte.github.io/ "The C0LEsGaMinG Website")
+[My Website](https://colebohte.github.io/ "The colebohte Website")
 [River HUB](https://colebohte.github.io/river-HUB "River HUB")<br>
-[c0lesgamingOS](https://colebohte.github.io/c0lesgamingOS "c0lesgamingOS")
+[Dumpster OS](https://github.com/colebohte/dumpsteros/ "Dumpster OS 26.0 (Trashfire)")
 [LibreStudy](https://github.com/colebohte/librestudy "LibreStudy")
 
 ### Socials:<br>
