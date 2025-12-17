@@ -5,7 +5,7 @@ Welcome to the official colebohte Github Page.<br>
 ### Projects:<br>
 [My Website](https://colebohte.github.io/ "The colebohte Website")
 [River HUB](https://colebohte.github.io/river-HUB "River HUB")<br>
-[Dumpster OS](https://github.com/colebohte/dumpsteros/ "Dumpster OS 26.0 (Trashfire)")
+[Dumpster OS](https://github.com/dumpsteros/dumpsteros/ "Dumpster OS 26.0 (Trashfire)")
 [LibreStudy](https://github.com/colebohte/librestudy "LibreStudy")
 
 ### Socials:<br>
