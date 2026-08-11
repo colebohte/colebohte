@@ -20,7 +20,7 @@ Welcome to the official colebohte Github Page.<br>
 
 
 ### Skills:<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,electron,figma,vscode,visualstudio,robloxstudio,godot,git,github,windows,powershell,linux,debian,bash,lua,c,kde,python&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,electron,figma,vscode,visualstudio,robloxstudio,godot,git,github,windows,powershell,linux,debian,bash,lua,c,cs,python&perline=10)](https://skillicons.dev)
 
 ### Activity:<br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/816286715459010564)](https://discord.com/users/816286715459010564)
