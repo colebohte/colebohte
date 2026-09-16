@@ -1,6 +1,6 @@
-![Github](https://github.com/user-attachments/assets/4c106b21-8ebe-4d2a-bff2-ab0e294eee73)
+![Github](https://github.com/user-attachments/assets/59861942-5dfd-4768-a7a7-1833b5c891ad)
 
-Welcome to the official colebohte Github Page.<br>
+Welcome to my corner of GitHub :3
 
 ### Projects:<br>
 [My Website](https://colebohte.github.io/ "The colebohte Website")
