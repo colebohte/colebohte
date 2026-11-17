@@ -23,7 +23,7 @@ Welcome to my corner of GitHub :3
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,electron,figma,vscode,visualstudio,robloxstudio,godot,git,github,windows,powershell,linux,arch,bash,lua,c,cs,python&perline=10)](https://skillicons.dev)
 
 ### Activity:<br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/816286715459010564?showDisplayName=true&hideStatus=true&hideBadges=true&theme=dark&idleMessage=Nothing.)](https://discord.com/users/816286715459010564)
+[![Discord Presence](https://lanyard.cnrad.dev/api/816286715459010564?showDisplayName=true&hideStatus=true&hideBadges=true&theme=dark&idleMessage=Nothing%20at%20all.)](https://discord.com/users/816286715459010564)
 
 <br><br><br>
 ![1141580172211015721](https://github.com/user-attachments/assets/ae04180b-70e6-47bc-98b3-d8ff224c9f94)
